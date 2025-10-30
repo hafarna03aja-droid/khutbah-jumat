@@ -1,0 +1,7 @@
+{
+  "name": "Asistan Khutbah Jumat",
+  "description": "A powerful AI assistant to help generate, refine, and practice Friday sermons (Khutbah Jumat) in both Indonesian and Javanese. Features include grounded generation, AI chat, audio transcription, and text-to-speech.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
